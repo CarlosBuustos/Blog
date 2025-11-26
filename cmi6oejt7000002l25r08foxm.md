@@ -62,7 +62,7 @@ A 1:8 CO₂–water ratio like this has been observed **only once** in the histo
 
 ### 8) Metal composition of the coma
 
-The gas plume above 3I/ATLAS contains **much more nickel than iron**, something also extremely unusual.
+The gas plume above 3I/ATLAS contains **much more nickel than iron**; a spaceship? I don’t think so, but it is definitely something extremely unusual.
 
 ### 9\. Negative polarisation
 
@@ -101,6 +101,8 @@ It is a great mystery. This colour might be explained by light refraction or by 
 
 There is a possible natural explanation based on Newton’s third law: it might be expelling gases. If sublimation releases gases with a rocket-like effect, the object could accelerate.  
 How much would it need to lose? We can calculate the mass it would have to shed to produce that acceleration. The estimate is about 5.5 trillion tons lost after passing the Sun. This is a lot, around 15% of its initial mass, something that should be detectable.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1764156109015/52811d68-3976-4b1d-8f3f-9c6c8ba291c6.jpeg align="center")
 
 ---
 
